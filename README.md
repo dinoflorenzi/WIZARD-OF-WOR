@@ -1,2 +1,5 @@
 # WIZARD-OF-WOR
 PORTING OF GAME WIZARD OF WOR
+per il caricamento da basic 128
+CLEAR,&H31FF
+LOADM"CASS:",,R
